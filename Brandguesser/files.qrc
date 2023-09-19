@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>иконки/right-arrows.png</file>
+    <file>иконки/exit.png</file>
+    <file>иконки/exit2.png</file>
+    <file>иконки/icon black.png</file>
+    <file>иконки/icon white.png</file>
+    <file>иконки/minus.png</file>
+    <file>иконки/mute.png</file>
+    <file>иконки/play.png</file>
+    <file>иконки/plus.png</file>
+    <file>иконки/quality-control.png</file>
+    <file>иконки/question.png</file>
+    <file>иконки/tips.png</file>
+    <file>иконки/unmute.png</file>
+    <file>иконки/close.png</file>
+  </qresource>
+</RCC>
