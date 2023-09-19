@@ -1,2 +1,0 @@
-pyuic5 brandguesser.ui -x -o brandguesser_ui.py
-pyrcc5 files.qrc -o files_rc.py
