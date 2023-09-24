@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="icons">
+    <file>иконки/heart.png</file>
     <file>иконки/right-arrows.png</file>
     <file>иконки/exit.png</file>
     <file>иконки/exit2.png</file>

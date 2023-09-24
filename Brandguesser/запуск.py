@@ -331,6 +331,7 @@ class MainWindow(QMainWindow):
         self.mistakes1 = 0
         self.ui.healths_2.setText(str(self.healths))
         self.ui.stackedWidget.setCurrentIndex(4)
+        self.ui.stackedWidget_3.setCurrentIndex(0)
     def mistake1(self):
         msgBox = QMessageBox().warning(window, "Предупреждение", h)
         self.healths -= 1
@@ -374,6 +375,7 @@ class MainWindow(QMainWindow):
         self.mistakes2 = 0
         self.ui.healths_3.setText(str(self.healths))
         self.ui.stackedWidget.setCurrentIndex(6)
+        self.ui.stackedWidget_4.setCurrentIndex(0)
     def mistake2(self):
         msgBox = QMessageBox().warning(window, "Предупреждение", h)
         self.healths -= 1
@@ -417,6 +419,7 @@ class MainWindow(QMainWindow):
         self.mistakes3 = 0
         self.ui.healths_4.setText(str(self.healths))
         self.ui.stackedWidget.setCurrentIndex(8)
+        self.ui.stackedWidget_5.setCurrentIndex(0)
     def mistake3(self):
         msgBox = QMessageBox().warning(window, "Предупреждение", h)
         self.healths -= 1
@@ -460,6 +463,7 @@ class MainWindow(QMainWindow):
         self.mistakes4 = 0
         self.ui.healths_5.setText(str(self.healths))
         self.ui.stackedWidget.setCurrentIndex(10)
+        self.ui.stackedWidget_6.setCurrentIndex(0)
     def mistake4(self):
         msgBox = QMessageBox().warning(window, "Предупреждение", h)
         self.healths -= 1
